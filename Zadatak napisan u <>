@@ -1,0 +1,330 @@
+Sveučilište u Zadru
+Odjel za informacijske znanosti
+Teorija i praksa organizacije informacija
+Profesor: dr. sc. Franjo Pehar
+Studentica: Lela Marjanović
+
+
+Zadatak za
+„Izabrana poglavlja informacijskih ustanova“
+
+
+Pregled teorije	1
+Nastanak The Carpentries zajednice	2
+Library Carpentry	3
+Data Carpentery	4
+Software Carpentry	4
+Usporedba kompetencija	5
+Zaključak	6
+Popis literature	7
+Prilog	8
+
+
+
+
+
+
+
+
+
+
+Pregled teorije
+Playforth smatra da su softwareske vještine veoma važne za djelatnike knjižnice, zato što su oni ti koji su zaposleni u biznisu informacija. Stvarajući ih, arhivirajući, dohvaćajući, uređujući i dostavljajući ih. Knjižnice žele ponuditi dobru uslugu, no prema njenome iskustvu ljudi su spori pri prihvaćanju promjena, a djelatnici knjižnica bi trebali znati kako koristiti i iskoristiti softwaree i informacijske tehnologije za bolju uslugu za korisnike. Posebice zato jer veliki dio interakcije korisnika s bilo kojom knjižnicom je kroz katalog, baze podataka i web stranice te vlastitim korištenjem, bez fizičke pomoći djelatnika zbog toga bi se trebala pružiti veća potpora razvoju vještina djelatnika u ovim područjima, i dobili bi korist od većeg ulaganja. Štoviše, postoje razna područja u kojima se može raditi i zanimati za: učenje- imamo dužnost pomoći istraživačima da pronađu i organiziraju svoje informacije, te zato trebamo biti efektivni u radu sa softwareima. Arhiviranje podataka- trebamo biti efikasni, sigurni i etički u načinima na koje spremamo podatke za pretraživanje u institucijske repozitorije, zato trebamo razumjeti kako koristiti i odabrati prave tehnologije za ovaj tip rada. Korisničko iskustvo na mreži- moramo se pobrinuti da okruženja koja stvaramo na našim web-stranicama budu prilagođena korisniku i intuitivna, kao i uključiva. Katalogiziranje: moramo osigurati da su metapodaci čisti i dosljedni kako bi ljudi dobili točne rezultate kada traže resurse. Cilj članka nije svi knjižničari trebaju znati programirati, već svi knjižničari trebaju pohađati „Library Carpentry.“  
+
+Nastanak The Carpentries zajednice
+Ova tri projekta su nastala od strane „The Carpentries“, početkom 2018. godine, u Sjedinjenim Američkim državama.  Djelatnici su većinom volonteri, treneri, mentori i slično. Dok su polaznici radionica profesori, knjižničari, programeri, i drugi informacijski stručnjaci koje zanima i bave se kodiranjem. Za rad na radionicama se naglašava da su otvorene i okolina podupiranja za sve ljude. Na radionicama se koristi usporedno kodiranje, a ne samo prikaz slajdova, ovako suučesnici mogu simultano pratiti i raditi. Ovaj dio je važan jer svi rade greške, čak i instruktori te ovdje polaznici radionica vide razne načine rješavanja pogrešaka. „Peers are teaching peers“- treniranje trenera, tj. nije velika razlika u godinama između polaznika i instruktora i zato je manje zastrašujuće okružje, jer su svi slično godište. Pomoć se traži preko post-it papirića, tako da se ne privlači posebno pozornost na sebe ni da se prekida tijek nastave, jer postoje pomagači u učionici koji će im pomoći. Pomagači i dijele informacije i savjete kako raditi,te polaznici imaju međusobno omogućeno dijeljenje bilješki. Konstantno se daju povratne informacije i instruktorima i polaznicima, te se ispituje naučeno kako bi profesori znali dalje prilagoditi sate.  Gledajući ove točke pristupa rada, vidi se otvoreni pristup prema učenju, okrenutost prema potrebama polaznika, pazeći čak i na to da se ne osjećaju nelagodno ili da im je teško pratiti, bez privlačenja pažnje, i isticanja „neznanja“ pitanjima. Stvaratelji ova pravila nazivaju „Code of Conduct.“ Ukratko instruktori podučavaju dvodnevne praktične radionice o temeljnim vještinama kako bi učinkovito upravljali podacima i radili s njima. Cilj je postati praktičar dok se nalazite u radionici, a zatim nastaviti učiti putem online i osobne interakcije zajednice izvan učionice.  Ono što sva tri projekta daju su „cheat sheets“ koji obrazovne ustanove nemaju naviku objavljivati, već se ono prenosi usmenim putem i nesigurno je. Odobreno od strane suradnika i voditelja lekcija i radionica, slobodan pristup materijalima je ono što čini The Carpenteries drugačijim tipom projekta od dosadašnjih suradnji i načina rada u području s podatcima.
+
+Library Carpentry
+Radionica za djelatnike knjižnica i zaposlenike u drugim informacijskim radnim ulogama. Cilj je ojačati zajednicu da koristi sofrtwaree u radu te da budu zagovaratelji stvaranja podataka i rada na softwareima. Te da s dobivenim znanjem dalje uče kolege, studente i istraživače.  
+Ciljevi lekcija su:
+•	Izrezati žargonske izraze i fraze razvoja softvera i znanosti o podacima i primijenite koncepte iz tih područja u knjižničnim zadacima;
+•	Identificirati i koristiti najbolje prakse u strukturama podataka;
+•	Saznajte kako programski transformirati i mapirati podatke iz jednog oblika u drugi;
+•	Učinkovito raditi s istraživačima, IT kolegama i kolegama;
+•	Automatizirajte zadatke koji se ponavljaju. 
+Osnovni kurikulum: „Introduction to Data“, „The UNIX Shell“, „OpenRefine“, „Introduction to Git“. Za svaku lekciju imaju „Site“ tj. uvod u lekciju, objašnjenja; „Repository“ link na GitHub gdje se nalaze svi materijali; „Reference“ više kao šalabahter za praktični rad u lekciji i „Guide“ savjeti. Ovi savjeti i linkovi na materijale su ponuđeni za svaku lekciju svakog kurikuluma na Library Carpentry. Za status ovih lekcija stoji „Stable“ što znači da su lekcije i gradivo dovršene te ustanovljene, no dodatna poboljšanja su uvijek dobro došla.
+Prošireni kurikulum: „TidyData“, „SQL“, „Webscraping“,“Intorduction to Python“, „Introduction to Dana for Archivists“. Stauts ovih lekcija je „Beta“ i „Alpha“ što znači da većinom jesu sastavljene no reorganizacija i povratne informacije su dobro došle kako bi se doradile. Dok „Alpha“ lekcije su tek u nastajanju i još nisu bile održane. Navode kako sve „Stable“ lekcije bi trebale imati najmanje tri aktivna održavatelja, uključuju kratki profil učenika (tj. za koga je lekcija namijenjena), uključiti konkretne ciljeve učenja, pod normalnim okolnostima biti podučavan u oko tri sata. Ekperimentalni/ konceptualni kurikulum je još u nastajanju.  Pod „Our lessons“ osim kurikuluma je nabrojano i 10 stavki: „Top 10 FAIR Data & Software Things“ (Oceanography, Research Software, Research Libraries, Research Data Management Support, International Relations, Humanities: Historical Research, Geoscience, Biomedical Data Producers, Stewards, and Funders, Biodiversity Australian Government Data/Collections, Archaeology).
+Popis lekcija: Introduction to Data, The UNIX Shell, OpenRefine, Introduction to Git, Tidy Dana, SQL, Webscraping, Introduction to Python, Introduction to Dana for Archivists.
+Za većinu budućih radionica stoji za koga su „The course is aimed at graduate students, researchers and librarians. You don't need to have any previous knowledge of the tools that will be presented at the workshop.“ Te se naglašava kako nisu potrebne prijašnje vještine unutar područja već se one steknu na radionici. Upravo zbog toga smatram kako su ove radionice važne ne samo za knjižničare i informacijske stručnjake već sve koji se bave informacijama na bilo koji način. 
+
+Data Carpentery
+Drugi projekt The Carpentries navodi kako razvija i podučava radionice o temeljnim vještinama podataka potrebnim za provođenje istraživanja. Njihova je misija pružiti istraživačima visokokvalitetno, specifično za domenu, obuku koja pokriva cijeli životni ciklus istraživanja temeljenih na podacima. Ističe kako je „Data Carpentery“ od sijelnja 2018. godine spojen sa „Software Carpentery“. Navode kako su njihove lekcije s pecifične za domenu (ICT) i nadograđuju postojeće znanje učenika kako bi im se omogućilo da brzo primijene vještine naučene na vlastita istraživanja. Naša početna ciljana publika su učenici koji imaju malo ili nimalo prethodnog računalnog iskustva. Stvaramo prijateljsko okruženje za učenje kako bismo osnažili istraživače i omogućili otkrivanje podataka.  
+Popis lekcija: ekologija- Ecology Workshop Overview, Data Organization in Spreadsheets for Ecologists, Data Cleaning with OpenRefine for Ecologists, Data Management with SQL for Ecologists, Data Analysis and Visualization in R for Ecologists, Data Analysis and Visualization in Python for Ecologists. Genomika- Genomics Workshop Overview, Project Organization and Management for Genomics, Introduction to the Command Line for Genomics, Data Wrangling and Processing for Genomics, Introduction to Cloud Computing for Genomics.  Kurikulum društvenih znanosti- Social Science Workshop Overview, Data Organization in Spreadsheets for Social Scientists, Data Cleaning with OpenRefine for Social Scientists, Data Analysis and Visualization with R for Social Scientists, Data Analysis and Visualization with Python for Social Scientists , Data Management with SQL for Social Scientists. 
+
+
+
+
+
+
+
+
+Software Carpentry
+Kao treći projekt The Carpentries projekta javlja se „Software Carpentry“, na stranici projekta su stavili članak s Sveučilišta u Kaliforniji: u današnjem svijetu koji se temelji na podacima, online i visoko međusobno povezanom svijetu, knjižničari su ključni za podupiranje različitih potreba za informacijama i vodećih najboljih praksi za rad s podacima i upravljanje njima. Kako bi knjižničari bili učinkoviti u brzom razvoju informacijskog krajolika, mogućnosti obuke i stručnog usavršavanja u računalnim i podatkovnim vještinama moraju biti dostupne i pristupačne.  Ističući važnosti drugih projekata naglašavaju sveukupnosti znanja poznavajući razne vještine. 
+Pod „Our lessons“ stoji kurikulum, dostupnost i doprinos npr. pitanja o lekcijama. Lekcije su: The Unix Shell, Version Control with Git, Programming with Python, Plotting and Programming in Python, Programming with R, R for Reproducible Scientific Analysis. Dodatne lekcije: Automation and Make, Programming with MATLAB, Using Databases and SQL, Version Control with Mercurial. Sve lekcije kao i u Library Carpentery imaju iste linkove na radionice i objašnjena te ime odgovorne osobe. 
+
+Usporedba kompetencija
+U ovome dijelu se uspoređuju kompetencije knjižničara, o kojima smo učili na kolegijima, kompetencije za koje se govori da su potrebne da bi se zaposlilo u današnjem dobu i budućnosti, te navesti će se kompetencije za koje se smatra da bi bile potrebne imati i znati u IT smjerovima. 
+Osnovne kompetencije se mogu podijeliti u 4 područja: načini razmišljanja ( Kreativnost, kritičko mišljenje, rješavanje problema, odlučivanje i učenje), načini rađenja (Komunikacija i suradnja ), alati za posao (  Informacijska i komunikacijska tehnologija (ICT) i informacijska pismenost), vještine potrebne za život (Građanstvo, život i karijera, te osobna i društvena odgovornost ). Vještine za 21. stoljeće su sistematsko razmišljanje, problemsko rješavanje, različitost vještina, poznavanje rada s tehnologijom, komunikacija, učenje preko samoinicijative.   Ove se vještine uvelike poklapaju s onima za zaposlenike 21.- og stoljeća.
+Poznavanje različitih sustava za rad s podatcima, programskih jezika, analiza i vizualizacija podataka su sve važne vještine i znanja ponajprije za vlastiti rad i napredak zatim za pružanje što bolje usluge korisnicima, ili pak za pronalazak posla. Zato navedene kompetencije obuhvaćaju razna područja, i čini se da traže puno, no to je ustvari cjeloživotno učenje sa specifikacijama ovisno o interesima osobe.
+
+
+
+Kompetencije knjižničara	Kompetencije zaposlenika 21. stoljeća	Kompetencije potrebne za obavljanje podatkovno/informacijski intenzivnim strukama
+4 K: kritičko mišljenje, kreativnost, kolaboracija, komunikacija. 	Kritičko razmišljanje
+Kreativnost
+kolaboracija
+Komunikacija
+Informacijska pismenost
+Medijska pismenost
+Tehnološka pismenost
+Prilagodljivost
+Rukovodstvo
+Inicijativa
+Produktivnost
+Socijalne vještine 	U Prilogu
+su navedene vještina (198) za 
+informacijske stručnjake. 
+
+
+	Vodstvo, kritičko razmišljanje, kolaboracija, komunikacija, prilagodljivost, produktivnost i odgovornost, inovativnost, globalni građanin; pristupanje, analiza i sintetizacija informacija te poduzetništvo 	Primjer: IT, dokumentacija, dizajn, rad s korisnicima, podatcima, HCI, …
+	Sintesajzer - Može li ta osoba sintetizirati složene informacije kako bi drugi mogli lako razumjeti i raditi s njom?
+Relationship-Builder - Može li ta osoba napraviti značajne veze s ljudima kako oko posla, tako i izvan njega?
+Misao voditelj - Može li ta osoba iznaći nove ideje i pristupe izazovima okruga i potom ih komunicirati ili dijeliti uvid?
+Misija - Kako je ta osoba strastvena u radu s okruzima za izgradnju i podršku dinamičnim školskim sustavima? 
+	
+
+Zaključak
+Pri radu u knjižnicama se naglašava cjeloživotno učenje, biti u skladu s vremenom, napredovati, a stagnirati i radeći samo ono što misle da znaju i da to tako ide. Konstantno unaprjeđivanje je svrha ne samo osobnog života, već poslovnog. Štoviše sama struka knjižničara je informacijskom tipa, danas se informacije prebacuju na digitalne formate te čak ih se digitalno i stvara. Knjižnice su neprofitne organizacije, s uslugama prilagođenima korisniku, no njihovi korisnici su heterogeni, s različitim iskustvima, mogućnostima i potrebama, kao i različitim načinima korištenja i dobivanja informacija. Ne bi li stoga knjižničari trebali imati što više znanja i vještina korištenja različitih tehnologija, ne moraju te vještine biti usavršene, to ovisi o samim mogućnostima i interesima pojedinog djelatnika, no dovoljne da pruže što više informacija i usluga korisnicima. The Carpenteries nude raznolike lekcije kroz svoja tri projekta (Library, Dana, Software), stupnjevi su od početnika do naprednih, tako da osoba može kompetencije stjeći prateći samo ove lekcije, ovisno o području zanimanja. Štoviše besplatan pristup održanih radionica i lekcija smanjuje nejednakost koja se pojavljuje u svijetu pri znanju i korištenju ICT- a. pošto nemaju svi isti pristup računalima, informacijama, internetu. Ovime se smanjuje jaz obrazovanja, dostupnost lekcija na engleskome (poneke na španjolskome) potiču i učenje engleskog kao „Internet jezika“, pošto poznavanje engleskog znači mogućnost korištenja interneta i time dobivanja informacija na globalnoj razini. Time engleski postaje osnovna razina kompetencija za daljnji rad, jer njegovim znanjem se lakše stječu druge vještine. Iako neke tehnologije nisu svugdje dostupne, slobodan pristup omogućava učenje o njima te pripremu ili njihovo uvođenje u sustav. Dalje se najčešće navodi kritičko mišljenje kao jedna od najvažnijih kompetencija, čime vidimo da stav i pregled problema s više strana znače isto kao i imati određeno znanje o nekome programu. Upravo zato jer se njime ciljevi jasno poslože i odredi put rada do konačnog cilja. Da bi se ovo sve ostvarilo, ovisno o radu ustanove važne su druge navedene kompetencije, smatram da su važne kompetencije iz više različitih područja jer tako se problem može sagledati iz više perspektiva, ponuditi više različitih rješenja i mogućnosti. Poznavanje recimo sustava za rad s podatcima i znanje o različitim navikama i potrebama ljudi (društvene i humanističke znanosti) daju holistički pristup rješenja i tako podižu rješenje na višu razinu, jer ga i rješavaju na više razina.
+
+
+
+
+
+
+
+
+
+
+Popis literature
+Chodacki, John. Skills Training for Librarians: Expanding Library Carpentry. URL: https://uc3.cdlib.org/2017/11/06/skills-training-for-librarians-expanding-library-carpentry/
+Data Carpentry. URL: https://datacarpentry.org/
+Doyle, Alison. Information Technology (IT) Skills List and Examples. 12.12.2018. URL: https://www.thebalancecareers.com/list-of-information-technology-it-skills-2062410
+Johnson, Daniel. How We Hire Employees Who Embody 21st Century Skills. 18.10.2017. URL: https://www.edelements.com/blog/-how-we-hire-employees-who-embody-21st-century-skills
+Library Carpentry. About Us.  URL: https://librarycarpentry.org/about/ 
+Library Carpentry. Our lessons.  URL: https://librarycarpentry.org/lessons/
+Library Carpentry. Our lessons. URL: https://librarycarpentry.org/lessons/
+Marquis, Justin. Building the Ideal Skill Set for 21st Century Employment. 30.7.2013. URL: https://www.onlineuniversities.com/blog/2013/07/building-the-ideal-skill-set-for-21st-century-employment/ 
+Playforth, Clare. Why the information profession needs Library Carpentry. 3.12.2015. URL: https://software.ac.uk/blog/2016-09-26-why-information-profession-needs-library-carpentry 
+Sewkarran, Rebecca. 10 Skills That Will Make You a Perfect 21st Century Employee URL: https://www.thejobnetwork.com/10-skills-that-will-make-you-a-perfect-21st-century-employee/
+The Carpentries. About Us URL: http://static.carpentries.org/about/ 
+The Carpentries. What is a Workshop?: What makes our workshops special? URL: https://carpentries.org/workshops/
+What are the 21st Century Skills? URL:  https://www.aeseducation.com/careercenter21/what-are-21st-century-skills 
+
+Prilog
+Popis vještina za posao informacijskog stručnjaka:
+A-	H
+1.	Assign Passwords and Maintain Database Access
+2.	Agile Development
+3.	Agile Project Methodology
+4.	Amazon Web Services (AWS)
+5.	Analytics
+6.	Analytical
+7.	Analyze and Recommend Database Improvements
+8.	Analyze Impact of Database Changes to the Business
+9.	Audit Database Access and Requests
+10.	APIs
+11.	Application and Server Monitoring Tools
+12.	Applications
+13.	Application Development
+14.	Architecture
+15.	Attention to Detail
+16.	Autocad
+17.	Azure
+18.	Big Data
+19.	Business Analytics
+20.	Business Intelligence
+21.	Business Process Modeling
+22.	C
+23.	Cloud Applications
+24.	Cloud-Based Visualizations
+25.	Cloud Hosting Services
+26.	Cloud Maintenance Tasks
+27.	Cloud Management Tools
+28.	Cloud Platforms
+29.	Cloud Scalability
+30.	Cloud Services
+31.	Cloud Systems Administration
+32.	Code
+33.	Coding
+34.	Computer
+35.	Communication
+36.	Configure Database Software
+37.	Configuration
+38.	Configuration Management
+39.	Content Strategy
+40.	Content Management
+41.	Continually Review Processes for Improvement 
+42.	Continuous Deployment
+43.	Continuous Integration
+44.	Critical Thinking
+45.	Customer Support
+46.	Database
+47.	Data Analysis
+48.	Data Analytics
+49.	Data Imports
+50.	Data Imports
+51.	Data Intelligence
+52.	Data Mining
+53.	Data Modeling
+54.	Data Science
+55.	Data Strategy
+56.	Data Storage
+57.	Data Visualization Tools
+58.	Data Visualizations
+59.	Database Administration
+60.	Deploying Applications in a Cloud Environment
+61.	Deployment Automation Tools
+62.	Deployment of Cloud Services
+63.	Design
+64.	Desktop Support
+65.	Design
+66.	Design and Build Database Management System
+67.	Design Principles
+68.	Design Prototypes
+69.	Design Specifications
+70.	Design Tools
+71.	Develop and Secure Network Structures
+72.	Develop and Test Methods to Synchronize Data 
+73.	Developer
+74.	Development
+75.	Documentation
+76.	Emerging Technologies
+77.	File Systems
+78.	Flexibility
+79.	Front End Design
+80.	Golang
+81.	Google Analytics
+
+H –M
+1.	Hardware
+2.	Help Desk
+3.	HTML
+4.	Identify User Needs 
+5.	Implement Backup and Recovery Plan 
+6.	Implementation
+7.	Information Architecture
+8.	Information Design
+9.	Information Systems
+10.	Information and Communications Technology (ICT)
+11.	Interaction Design
+12.	Interaction Flows
+13.	Install, Maintain, and Merge Databases 
+14.	Installation
+15.	Integrated Technologies
+16.	Integrating Security Protocols with Cloud Design
+17.	Internet
+18.	IT Optimization
+19.	IT Security
+20.	IT Soft Skills
+21.	IT Solutions
+22.	IT Support
+23.	Kubernetes
+24.	Languages
+25.	Logical Thinking
+26.	Leadership
+27.	Linux
+28.	Magento
+29.	Management
+30.	Messaging
+31.	Methodology
+32.	Metrics
+33.	Microsoft Office
+34.	Migrating Existing Workloads into Cloud Systems
+35.	Mobile Applications
+36.	Motivation
+
+N- S
+1.	Networks
+2.	Network Operations
+3.	Networking
+4.	Node.js
+5.	Open Source Technology Integration
+6.	Operating Systems
+7.	Operations
+8.	Optimize Queries on Live Data
+9.	Optimizing User Experiences
+10.	Optimizing Website Performance
+11.	Organization
+12.	PHP
+13.	Presentation
+14.	Programming
+15.	Problem Solving
+16.	Process Flows
+17.	Product Design
+18.	Product Development
+19.	Prototyping Methods
+20.	Product Development
+21.	Product Management
+22.	Product Support
+23.	Product Training
+24.	Project Management
+25.	Repairs
+26.	Reporting
+27.	Research Emerging Technology
+28.	Responsive Design
+29.	Review Existing Solutions
+30.	Search Engine Optimization (SEO)
+31.	Security
+32.	Self Motivated
+33.	Self Starting
+34.	Servers
+35.	Software
+36.	Software Development
+37.	Software Engineering
+38.	Software Quality Assurance (QA)
+39.	Solid Project Management Capabilities 
+40.	Solid Understanding of Company’s Data Needs 
+41.	Storage
+42.	Strong Technical and Interpersonal Communication 
+43.	Support
+44.	Systems Software
+T- Z
+1.	Tablets
+2.	Team Building
+3.	Team Oriented
+4.	Teamwork
+5.	Technology
+6.	Tech Skills
+7.	Technical Support
+8.	Technical Writing
+9.	Testing
+10.	Time Management
+11.	Tools
+12.	Touch Input Navigation
+13.	Training
+14.	Troubleshooting
+15.	Troubleshooting Break-Fix Scenarios
+16.	User Research
+17.	User Testing
+18.	Usability
+19.	User-Centered Design
+20.	User Experience
+21.	User Flows
+22.	User Interface
+23.	User Interaction Diagrams
+24.	User Research
+25.	User Testing
+26.	UI / UX
+27.	Utilizing Cloud Automation Tools
+28.	Virtualization
+29.	Verilog
+30.	Visual Design
+31.	Web Analytics
+32.	Web Applications
+33.	Web Development
+34.	Web Design
+35.	Web Technologies
+36.	Wireframes
+37.	Work Independently 
+Sveukupno 198 vještina.
+
